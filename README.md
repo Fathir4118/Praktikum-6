@@ -1,10 +1,10 @@
 # Praktikum-6
 
-Nama: ANDREAN PUTRA ARYA
+Nama: Muhammad Fathir Nurcholish
 
 Kelas: TI.24.A4
 
-NIM: 312410341
+NIM: 312410287
 
 Matkul: Bahasa Pemrograman
 
@@ -206,7 +206,7 @@ Jika pengguna memasukkan pilihan selain angka `1 hingga 5`, program akan menampi
 
 Hasil Program Tersebut:
 
-![gambar](https://github.com/andreanbadeh/Praktikum-6-Lab6/blob/6094a3460583a3ad6af9360343409bdc57f2a020/Image/Screenshot%20from%202024-11-26%2015-31-05.png)
+![gambar](https://github.com/Fathir4118/Praktikum-6/blob/main/Gambar/IMG_20250106_114950.jpg)
 
 Dan Ini Flowchart Code Tersebut:
 
